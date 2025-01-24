@@ -1,0 +1,15 @@
+{
+  "name": "jsserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "valentina moran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
